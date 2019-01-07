@@ -1,0 +1,4 @@
+public/
+source/
+node_modules/
+!/themes/next/source/
