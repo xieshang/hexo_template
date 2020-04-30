@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 标题
-subtitle: 副标题
+title: 川's Blog
+subtitle: 随笔  随写  随意
 avatar: 头像链接URL
-description: 个人简介
-author: 作者名称
+description: 
+author: 川
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 博客主页URL
+url: http://www.xieshang.ren
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
